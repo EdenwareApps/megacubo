@@ -41,7 +41,7 @@
     "dashjs": "^4.7.4",
     "dayjs": "^1.11.13",
     "decode-entities": "^1.0.7",
-    "electron": "^9.1.1",
+    "electron": "^22.3.25",
     "env-paths": "^3.0.0",
     "exec-finder": "^0.0.2",
     "fast-json-clone": "^1.0.2",
